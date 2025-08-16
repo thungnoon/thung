@@ -209,7 +209,26 @@ http://192.168.5.1:4000/udp/239.49.1.24:8000
 #EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://11.112114.xyz/logo/欢笑剧场4K.png" group-title="数字频道",欢笑剧场4K
 http://192.168.5.1:4000/udp/239.49.8.106:8000
 
-
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://11.112114.xyz/logo/浙江卫视.png" group-title="浙江频道",浙江卫视
+http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江公共新闻" tvg-logo="https://11.112114.xyz/logo/浙江公共新闻.png" group-title="浙江频道",浙江公共新闻
+http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="https://11.112114.xyz/logo/浙江民生休闲.png" group-title="浙江频道",浙江民生休闲
+http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江经济生活" tvg-logo="https://11.112114.xyz/logo/浙江经济生活.png" group-title="浙江频道",浙江经济生活
+http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江教科" tvg-logo="https://11.112114.xyz/logo/浙江教科.png" group-title="浙江频道",浙江教科
+http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江钱江" tvg-logo="https://11.112114.xyz/logo/浙江钱江.png" group-title="浙江频道",浙江钱江
+http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江影视娱乐" tvg-logo="https://11.112114.xyz/logo/浙江影视娱乐.png" group-title="浙江频道",浙江影视娱乐
+http://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://11.112114.xyz/logo/浙江少儿.png" group-title="浙江频道",浙江少儿
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://11.112114.xyz/logo/浙江国际.png" group-title="浙江频道",浙江国际
+http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-name="之江记录" tvg-logo="https://11.112114.xyz/logo/之江记录.png" group-title="浙江频道",之江记录
+http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 
 #EXTINF:-1 tvg-name="南京新闻综合" tvg-logo="https://11.112114.xyz/logo/南京新闻综合.png" group-title="地方频道",南京新闻综合
 http://192.168.5.1:4000/udp/239.49.0.25:8192
@@ -249,6 +268,8 @@ http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd
 http://stream.thmz.com/wxtv4/sd/live.m3u8?zjiangsd
 #EXTINF:-1 tvg-name="无锡经济" tvg-logo="https://11.112114.xyz/logo/无锡经济.png" group-title="地方频道",无锡经济
 http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd
+#EXTINF:-1 tvg-name="宜兴新闻" tvg-logo="https://11.112114.xyz/logo/宜兴新闻.png" group-title="地方频道",宜兴新闻
+https://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 
 #EXTINF:-1 tvg-name="常州都市" tvg-logo="https://11.112114.xyz/logo/常州都市.png" group-title="地方频道",常州都市
 http://192.168.5.1:4000/udp/239.49.0.220:9590
@@ -358,6 +379,7 @@ http://192.168.5.1:4000/udp/239.49.8.99:8000
 http://192.168.5.1:4000/udp/239.49.8.100:8000
 #EXTINF:-1 group-title="苏超频道",江苏省城市足球联赛6
 http://192.168.5.1:4000/udp/239.49.8.101:8000
+
 
 
 
