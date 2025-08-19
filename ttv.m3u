@@ -380,9 +380,12 @@ http://192.168.5.1:4000/udp/239.49.8.100:8000
 #EXTINF:-1 group-title="苏超频道",江苏省城市足球联赛6
 http://192.168.5.1:4000/udp/239.49.8.101:8000
 
-
-
-
+#EXTINF:-1 group-title="测试",上海新闻综合
+https://bp-cdn-ali.bestv.cn/ch/bestvxwzh_4m.m3u8?auth_key=1755493209-4ebc65829cff496da557a8206714cd1d-0-62afeb52b5e86d93297fce2112fb4495
+#EXTINF:-1 group-title="测试",看东方
+https://bp-resource-dfl.bestv.cn/155/3/video.m3u8?auth_key=1755493209-380bf00031404e1787758b9b2c7bdec7-0-05f1d1de0ed1d139f78553afba68915e
+#EXTINF:-1 group-title="测试",东方卫视
+https://bp-cdn-ali.bestv.cn/enhance/bestvdfws_enhance.m3u8?auth_key=1755493209-8567acbe283c4e2d9e1f1eb03a11783e-0-c73809aad7fa20b6dc371e8b49af9455
 
 
 
