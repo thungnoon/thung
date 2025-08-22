@@ -376,14 +376,24 @@ http://192.168.5.1:4000/udp/239.49.8.101:8000
 
 #EXTINF:-1 group-title="测试",看东方
 https://bp-resource-dfl.bestv.cn/155/3/video.m3u8?auth_key=1755493209-380bf00031404e1787758b9b2c7bdec7-0-05f1d1de0ed1d139f78553afba68915e
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://11.112114.xyz/logo/上海新闻综合.png" group-title="测试",上海新闻综合
+https://zby.130519.xyz/PLTV/11/224/3221226136/index.m3u8?
+#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://11.112114.xyz/logo/东方影视.png" group-title="测试",东方影视
+https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8?
+#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://11.112114.xyz/logo/上海都市.png" group-title="测试",上海都市
+https://zby.130519.xyz/PLTV/11/224/3221225749/index.m3u8?
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="测试",五星体育
+https://zby.130519.xyz/PLTV/11/224/3221225732/index.m3u8?
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://11.112114.xyz/logo/生活时尚.png" group-title="测试",生活时尚
+https://zby.130519.xyz/PLTV/11/224/3221225768/index.m3u8?
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://11.112114.xyz/logo/陕西卫视.png" group-title="测试",陕西卫视
+https://zby.130519.xyz/PLTV/11/224/3221226086/index.m3u8?
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://11.112114.xyz/logo/康巴卫视.png" group-title="测试",康巴卫视
+https://zby.130519.xyz/PLTV/11/224/3221225773/index.m3u8?
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://11.112114.xyz/logo/大湾区卫视.png" group-title="测试",大湾区卫视
+https://fn.130519.xyz/gddwq/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://11.112114.xyz/logo/广东珠江.png" group-title="测试",广东珠江
+https://fn.130519.xyz/gdzj/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 
 
 
