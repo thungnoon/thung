@@ -378,14 +378,20 @@ http://192.168.5.1:4000/udp/239.49.8.101:8000
 https://bp-resource-dfl.bestv.cn/155/3/video.m3u8?auth_key=1755493209-380bf00031404e1787758b9b2c7bdec7-0-05f1d1de0ed1d139f78553afba68915e
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://11.112114.xyz/logo/上海新闻综合.png" group-title="测试",上海新闻综合
 https://zby.130519.xyz/PLTV/11/224/3221226136/index.m3u8?
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://11.112114.xyz/logo/上海新闻综合.png" group-title="测试",上海新闻综合
+https://live.kankanews.com/huikan?id=2
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://11.112114.xyz/logo/东方影视.png" group-title="测试",东方影视
 https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8?
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://11.112114.xyz/logo/上海都市.png" group-title="测试",上海都市
 https://zby.130519.xyz/PLTV/11/224/3221225749/index.m3u8?
+#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://11.112114.xyz/logo/上海都市.png" group-title="测试",上海都市
+https://live.kankanews.com/huikan?id=4
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="测试",五星体育
 https://zby.130519.xyz/PLTV/11/224/3221225732/index.m3u8?
-#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://11.112114.xyz/logo/生活时尚.png" group-title="测试",生活时尚
-https://zby.130519.xyz/PLTV/11/224/3221225768/index.m3u8?
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="测试",五星体育
+https://live.kankanews.com/huikan?id=10
+#EXTINF:-1 tvg-name="新纪实" tvg-logo="https://11.112114.xyz/logo/新纪实.png" group-title="测试",新纪实
+https://live.kankanews.com/huikan?id=12
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://11.112114.xyz/logo/陕西卫视.png" group-title="测试",陕西卫视
 https://zby.130519.xyz/PLTV/11/224/3221226086/index.m3u8?
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://11.112114.xyz/logo/康巴卫视.png" group-title="测试",康巴卫视
@@ -406,6 +412,7 @@ https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=175
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1755940210&sign=70c8bfab9014d76bf18d2ea04f155965
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://11.112114.xyz/logo/北京纪实科教.png" group-title="测试",北京纪实科教
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1755940209&sign=85188437c682f3738767e9976cd82514
+
 
 
 
