@@ -196,10 +196,6 @@ http://192.168.5.1:4000/udp/239.49.8.193:8000
 http://192.168.5.1:4000/udp/239.49.0.109:8000
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://11.112114.xyz/logo/CCTV4K.png" group-title="超清频道",CCTV-4K 超高清
 http://192.168.5.1:4000/udp/239.49.0.82:8000
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://11.112114.xyz/logo/江苏卫视4K.png" group-title="超清频道",江苏卫视4k
-http://192.168.5.1:4000/udp/239.49.1.61:8000
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://11.112114.xyz/logo/江苏卫视4K.png" group-title="超清频道",江苏卫视4K
-http://192.168.5.1:4000/udp/239.49.1.62:8000
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视4K.png" group-title="超清频道",北京卫视4K-25FPS
 http://192.168.5.1:4000/udp/239.49.0.42:8000
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://11.112114.xyz/logo/深圳卫视4K.png" group-title="超清频道",深圳卫视4K-50FPS
@@ -410,8 +406,8 @@ https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=175
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1756201212&sign=73e6197d460a4d130bd99a4e21757433
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://11.112114.xyz/logo/北京纪实科教.png" group-title="测试",北京纪实科教
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1756201210&sign=209250ddea47eee39367dcb360c57f62
-#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://11.112114.xyz/logo/北京卡酷少儿.png" group-title="测试",北京卡酷少儿
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?
+
+
 
 
 
