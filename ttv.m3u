@@ -375,46 +375,23 @@ http://192.168.5.1:4000/udp/239.49.8.97:8000
 http://192.168.5.1:4000/udp/239.49.8.101:8000
 
 #EXTINF:-1 group-title="测试",看东方
-https://bp-resource-dfl.bestv.cn/155/3/video.m3u8?auth_key=1755493209-380bf00031404e1787758b9b2c7bdec7-0-05f1d1de0ed1d139f78553afba68915e
+https://bp-resource-dfl.bestv.cn/155/3/video.m3u8?auth_key=1755493209-380bf00031404e1787758b9b2c7bdec7-0-05f1d1de0ed1d139f78553afba68915e 
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://11.112114.xyz/logo/上海新闻综合.png" group-title="测试",上海新闻综合
-https://zby.130519.xyz/PLTV/11/224/3221226136/index.m3u8?
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://11.112114.xyz/logo/上海新闻综合.png" group-title="测试",上海新闻综合
-webview://https://live.kankanews.com/huikan?id=2
-#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://11.112114.xyz/logo/东方影视.png" group-title="测试",东方影视
-https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8?
+webview://https://live.kankanews.com/huikan?id=2 
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://11.112114.xyz/logo/上海都市.png" group-title="测试",上海都市
-https://zby.130519.xyz/PLTV/11/224/3221225749/index.m3u8?
-#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://11.112114.xyz/logo/上海都市.png" group-title="测试",上海都市
-webview://https://live.kankanews.com/huikan?id=4
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="测试",五星体育
-https://zby.130519.xyz/PLTV/11/224/3221225732/index.m3u8?
+webview://https://live.kankanews.com/huikan?id=4 
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="测试",五星体育
 webview://https://live.kankanews.com/huikan?id=10
 #EXTINF:-1 tvg-name="新纪实" tvg-logo="https://11.112114.xyz/logo/新纪实.png" group-title="测试",新纪实
 webview://https://live.kankanews.com/huikan?id=12
 #EXTINF:-1 tvg-name="魔都眼" tvg-logo="https://11.112114.xyz/logo/魔都眼.png" group-title="测试",魔都眼
 webview://https://live.kankanews.com/huikan?id=11
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://11.112114.xyz/logo/陕西卫视.png" group-title="测试",陕西卫视
-https://zby.130519.xyz/PLTV/11/224/3221226086/index.m3u8?
-#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://11.112114.xyz/logo/康巴卫视.png" group-title="测试",康巴卫视
-https://zby.130519.xyz/PLTV/11/224/3221225773/index.m3u8?
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://11.112114.xyz/logo/大湾区卫视.png" group-title="测试",大湾区卫视
-https://fn.130519.xyz/gddwq/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://11.112114.xyz/logo/广东珠江.png" group-title="测试",广东珠江
-https://fn.130519.xyz/gdzj/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
-#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://11.112114.xyz/logo/北京新闻.png" group-title="测试",北京新闻
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1756557014&sign=5f61f749712c73a6a7ac9de3e23849db
-#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://11.112114.xyz/logo/北京影视.png" group-title="测试",北京影视
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1756557012&sign=cd96278ac2e0534cd7e4826131ee90c3
-#EXTINF:-1 tvg-name="北京生活" tvg-logo="https://11.112114.xyz/logo/北京生活.png" group-title="测试",北京生活
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1756557013&sign=a8849e77019ae9e72712254b9098f129
-#EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://11.112114.xyz/logo/北京文艺.png" group-title="测试",北京文艺
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1756557009&sign=3f6f317c3a3f88b1505bba9a378b8645
-#EXTINF:-1 tvg-name="北京财经" tvg-logo="https://11.112114.xyz/logo/北京财经.png" group-title="测试",北京财经
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1756557013&sign=d3202482bed48c98bd915de5eb8914b0
-#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://11.112114.xyz/logo/北京纪实科教.png" group-title="测试",北京纪实科教
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1756557010&sign=3f4af8e9a6a2b64c2cf977aa9d082003
-
+#EXTINF:-1 tvg-name="江苏公共新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏公共新闻.png" group-title="测试",江苏新闻
+webview://https://live.jstv.com?channel=江苏新闻 
+#EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏城市.png" group-title="测试",江苏城市
+webview://https://live.jstv.com?channel=江苏城市
+#EXTINF:-1 tvg-name="BRTV新闻" tvg-logo=""https://11.112114.xyz/logo/BRTV新闻.png" group-title="北京",BRTV新闻
+webview://https://www.btime.com/btv/btvsy_index?channel=BRTV新闻
 
 
 
