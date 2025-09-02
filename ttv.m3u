@@ -390,8 +390,9 @@ webview://https://live.kankanews.com/huikan?id=11
 webview://https://live.jstv.com?channel=江苏新闻 
 #EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏城市.png" group-title="测试",江苏城市
 webview://https://live.jstv.com?channel=江苏城市
-#EXTINF:-1 tvg-name="BRTV新闻" tvg-logo=""https://11.112114.xyz/logo/BRTV新闻.png" group-title="北京",BRTV新闻
+#EXTINF:-1 tvg-name="BRTV新闻" tvg-logo=""https://11.112114.xyz/logo/BRTV新闻.png" group-title="测试",BRTV新闻
 webview://https://www.btime.com/btv/btvsy_index?channel=BRTV新闻
+
 
 
 
