@@ -443,21 +443,7 @@ webview://https://iptv345.com/?act=play&token=597468bcc590d97d9d322bd3ececfe6b&t
 #EXTINF:-1 group-title="测试" ,香港有线18台
 webview://https://m.345iptv.com/?act=play&token=cb71c914dedbaab872d1df1b39dc6678&tid=gt&id=12
 #EXTINF:-1 group-title="测试" ,NOW新闻台
-webview://https://iptv345.com/?act=play&token=f9af6c46608d4424f3112b0fd11189cd&tid=gt&id=17
-#EXTINF:-1 group-title="测试" ,深圳卫视
-webview://https://www.sztv.com.cn/dianshi.shtml?id=7867
-#EXTINF:-1 group-title="测试" ,深圳都市
-webview://https://www.sztv.com.cn/dianshi.shtml?id=7868
-#EXTINF:-1 group-title="测试" ,深圳电视剧
-webview://https://www.sztv.com.cn/dianshi.shtml?id=7880
-#EXTINF:-1 group-title="测试" ,深圳财经
-webview://https://www.sztv.com.cn/dianshi.shtml?id=7871
-#EXTINF:-1 group-title="测试" ,深圳少儿
-webview://https://www.sztv.com.cn/dianshi.shtml?id=7881
-#EXTINF:-1 group-title="测试" ,深圳移动
-webview://https://www.sztv.com.cn/dianshi.shtml?id=7869
-#EXTINF:-1 group-title="测试" ,深圳国际
-webview://https://www.sztv.com.cn/dianshi.shtml?id=7944
+webview://https://iptv345.com/?act=play&token=f9af6c46608d4424f3112b0fd11189cd&tid=gt&id=17 
 #EXTINF:-1 group-title="测试" ,广州综合
 http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 #EXTINF:-1 group-title="测试" ,广州新闻
@@ -481,6 +467,7 @@ webview://https://tv.hoolo.tv/utv/
 webview://https://tv.hoolo.tv/hzse/
 #EXTINF:-1 group-title="测试" ,杭州文化
 webview://https://tv.hoolo.tv/whpd/
+
 
 
 
