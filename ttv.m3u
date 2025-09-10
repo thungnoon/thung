@@ -399,7 +399,7 @@ webview://https://www.youtube.com/live/2mCSYvcfhtc?si=o_0ixN32JvkCB3mJ
 #EXTINF:-1 group-title="测试" ,TVBS HD
 webview://https://iptv345.com/?act=play&token=bbbc70dbbbbe3be6daa4349667e13ad1&tid=gt&id=56
 #EXTINF:-1 group-title="测试" ,TVBS News
-https://www.youtube.com/live/m_dhMSvUCIc?si=vW2HFJE4-j_Gh6S9
+webview://https://www.youtube.com/live/m_dhMSvUCIc?si=vW2HFJE4-j_Gh6S9
 #EXTINF:-1 group-title="测试" ,寰宇新聞
 webview://https://iptv345.com/?act=play&token=f044028eb64b8bacaeb00253a6f96d3b&tid=gt&id=53
 #EXTINF:-1 group-title="测试" ,中天新聞
@@ -467,6 +467,7 @@ webview://https://tv.hoolo.tv/utv/
 webview://https://tv.hoolo.tv/hzse/
 #EXTINF:-1 group-title="测试" ,杭州文化
 webview://https://tv.hoolo.tv/whpd/
+
 
 
 
