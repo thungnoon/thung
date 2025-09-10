@@ -386,14 +386,89 @@ webview://https://live.kankanews.com/huikan?id=10
 webview://https://live.kankanews.com/huikan?id=12
 #EXTINF:-1 tvg-name="魔都眼" tvg-logo="https://11.112114.xyz/logo/魔都眼.png" group-title="测试",魔都眼
 webview://https://live.kankanews.com/huikan?id=11
-#EXTINF:-1 tvg-name="江苏公共新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏公共新闻.png" group-title="测试",江苏新闻
-webview://https://live.jstv.com?channel=江苏新闻 
-#EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏城市.png" group-title="测试",江苏城市
-webview://https://live.jstv.com?channel=江苏城市
-#EXTINF:-1 tvg-name="BRTV新闻" tvg-logo=""https://11.112114.xyz/logo/BRTV新闻.png" group-title="测试",BRTV新闻
-webview://https://www.btime.com/btv/btvsy_index?channel=BRTV新闻
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo=""https://11.112114.xyz/logo/陕西卫视.png" group-title="测试",陕西卫视
-webview://http://live.snrtv.com/?channel=陕西卫视  
+#EXTINF:-1 group-title="测试" ,緯來體育
+webview://https://www.iptv345.com/?act=play&token=baa6a6711c09d4c8ab6abe3ea9a430d3&tid=gt&id=73
+#EXTINF:-1 group-title="测试" ,鳳凰中文
+webview://https://m.345iptv.com/?act=play&token=c80cba20d9f5c689aa1ea457a03d3420&tid=gt&id=1
+#EXTINF:-1 group-title="测试" ,鳯凰資訊
+webview://https://m.345iptv.com/?act=play&token=e9e7f0e3d724521c49915b4b5c813650&tid=gt&id=2
+#EXTINF:-1 group-title="测试" ,鳳凰香港
+webview://https://m.345iptv.com/?act=play&token=301120f25939085c3313bad63d7c207d&tid=gt&id=3
+#EXTINF:-1 group-title="测试" ,中天新聞
+webview://https://m.345iptv.com/?act=play&token=a5cdc8d8c06b93480b21e313dd248fab&tid=gt&id=43
+#EXTINF:-1 group-title="测试" ,東森新聞
+webview://http://m.345iptv.com/?act=play&token=8965fb967119ad09f0df8ec90b5df34b&tid=gt&id=44
+#EXTINF:-1 group-title="测试" ,中視新聞
+webview://http://m.345iptv.com/?act=play&token=f433a3a8a177d0b012b4b337558191c2&tid=gt&id=46
+#EXTINF:-1 group-title="测试" ,三立新聞
+webview://http://m.345iptv.com/?act=play&token=5306092da4db4bf69dc2cd81e05c1e2b&tid=gt&id=48
+#EXTINF:-1 group-title="测试" ,台視新聞
+webview://http://m.345iptv.com/?act=play&token=19416380214a699f16f2a2e6262563ec&tid=gt&id=47
+#EXTINF:-1 group-title="测试" ,華視新聞
+webview://http://m.345iptv.com/?act=play&token=077cde05e45f43f87cc3c4c57a152e1e&tid=gt&id=51
+#EXTINF:-1 group-title="测试" ,鏡新聞
+webview://http://m.345iptv.com/?act=play&token=20a5079da56f52ac6332530b8ae045bc&tid=gt&id=52
+#EXTINF:-1 group-title="测试" ,寰宇新聞
+webview://http://m.345iptv.com/?act=play&token=a5d87cec4adae0ff298fa844f43e8427&tid=gt&id=53
+#EXTINF:-1 group-title="测试" ,TVBS新聞
+webview://https://m.345iptv.com/?act=play&token=add22ba4f8f5efb49272be34a86e7f12&tid=gt&id=55
+#EXTINF:-1 group-title="测试" ,華視
+webview://http://m.345iptv.com/?act=play&token=d835edf85041fa76c82e4e1f846bf67b&tid=gt&id=63
+#EXTINF:-1 group-title="测试" ,民視
+webview://http://m.345iptv.com/?act=play&token=499b6a8677702cdead3d1acb4ee763f6&tid=gt&id=62
+#EXTINF:-1 group-title="测试" ,台視
+webview://http://m.345iptv.com/?act=play&token=3566a94ef8f056a92ba7d6bc3adae830&tid=gt&id=61
+#EXTINF:-1 group-title="测试" ,中視
+webview://http://m.345iptv.com/?act=play&token=5ef10e1554d809f389a139596e22d6e4&tid=gt&id=60
+#EXTINF:-1 group-title="测试" ,广东体育
+webview://https://m.345iptv.com/?act=play&tid=ty&id=3
+#EXTINF:-1 group-title="测试" ,广东珠江
+webview://https://m.345iptv.com/?act=play&tid=itv&id=5
+#EXTINF:-1 group-title="测试" ,广州综合
+webview://https://m.345iptv.com/?act=play&tid=itv&id=98
+#EXTINF:-1 group-title="测试" ,广州新闻
+webview://https://m.345iptv.com/?act=play&tid=itv&id=99
+#EXTINF:-1 group-title="测试" ,翡翠台
+webview://https://m.345iptv.com/?act=play&tid=gt&id=5
+#EXTINF:-1 group-title="测试" ,无线新闻台
+webview://https://m.345iptv.com/?act=play&tid=gt&id=6
+#EXTINF:-1 group-title="测试" ,TVBS
+webview://https://www.iptv345.com/?act=play&token=40225d7a934d56e38f1fd9ca41809f98&tid=gt&id=56
+#EXTINF:-1 group-title="测试" ,爱尔达体育1台
+webview://http://m.345iptv.com/?act=play&token=e963b41721c7119719ec1b1c72e13757&tid=gt&id=79
+#EXTINF:-1 group-title="测试" ,爱尔达体育2台
+webview://http://m.345iptv.com/?act=play&token=6f6551349ba8db18c4c9e4e64622e094&tid=gt&id=80
+#EXTINF:-1 group-title="测试" ,爱尔达体育3台
+webview://http://m.345iptv.com/?act=play&token=2f49d64294c642a0bdb87271caa1929d&tid=gt&id=81
+#EXTINF:-1 group-title="测试" ,爱尔达体育4台
+webview://http://m.345iptv.com/?act=play&token=2f49d64294c642a0bdb87271caa1929d&tid=gt&id=82
+#EXTINF:-1 group-title="测试" ,深圳卫视
+webview://https://www.sztv.com.cn/dianshi.shtml?id=7867
+#EXTINF:-1 group-title="测试" ,深圳都市
+webview://https://www.sztv.com.cn/dianshi.shtml?id=7868
+#EXTINF:-1 group-title="测试" ,深圳电视剧
+webview://https://www.sztv.com.cn/dianshi.shtml?id=7880
+#EXTINF:-1 group-title="测试" ,深圳财经
+webview://https://www.sztv.com.cn/dianshi.shtml?id=7871
+#EXTINF:-1 group-title="测试" ,深圳少儿
+webview://https://www.sztv.com.cn/dianshi.shtml?id=7881
+#EXTINF:-1 group-title="测试" ,深圳移动
+webview://https://www.sztv.com.cn/dianshi.shtml?id=7869
+#EXTINF:-1 group-title="测试" ,深圳宜和购物
+webview://https://www.sztv.com.cn/dianshi.shtml?id=7878
+#EXTINF:-1 group-title="测试" ,深圳国际
+webview://https://www.sztv.com.cn/dianshi.shtml?id=7944
+#EXTINF:-1 group-title="测试" ,广州综合
+http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
+#EXTINF:-1 group-title="测试" ,广州新闻
+http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
+#EXTINF:-1 group-title="测试" ,广州影视
+http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8
+#EXTINF:-1 group-title="测试" ,广州法治
+http://tencentplaygzrb01.gztv.com/live/fazhi.m3u8
+#EXTINF:-1 group-title="测试" ,广州南国都市
+http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
+
 
 
 
