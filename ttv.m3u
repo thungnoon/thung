@@ -394,8 +394,12 @@ webview://https://iptv345.com/?act=play&token=e6f62b6e636948ebf5f89e60fb16aa0f&t
 webview://https://iptv345.com/?act=play&token=808e3f01b671478733ce7eab7e0febd4&tid=gt&id=3
 #EXTINF:-1 group-title="测试" ,TVBS新聞
 webview://https://iptv345.com/?act=play&token=200fa65172463df0ba600b436af502a6&tid=gt&id=55
+#EXTINF:-1 group-title="测试" ,TVBS新聞
+webview://https://www.youtube.com/live/2mCSYvcfhtc?si=o_0ixN32JvkCB3mJ
 #EXTINF:-1 group-title="测试" ,TVBS HD
 webview://https://iptv345.com/?act=play&token=bbbc70dbbbbe3be6daa4349667e13ad1&tid=gt&id=56
+#EXTINF:-1 group-title="测试" ,TVBS News
+webview://https://www.youtube.com/live/m_dhMSvUCIc?si=vW2HFJE4-j_Gh6S9
 #EXTINF:-1 group-title="测试" ,寰宇新聞
 webview://https://iptv345.com/?act=play&token=f044028eb64b8bacaeb00253a6f96d3b&tid=gt&id=53
 #EXTINF:-1 group-title="测试" ,中天新聞
@@ -452,7 +456,7 @@ webview://https://www.sztv.com.cn/dianshi.shtml?id=7871
 webview://https://www.sztv.com.cn/dianshi.shtml?id=7881
 #EXTINF:-1 group-title="测试" ,深圳移动
 webview://https://www.sztv.com.cn/dianshi.shtml?id=7869
- #EXTINF:-1 group-title="测试" ,深圳国际
+#EXTINF:-1 group-title="测试" ,深圳国际
 webview://https://www.sztv.com.cn/dianshi.shtml?id=7944
 #EXTINF:-1 group-title="测试" ,广州综合
 http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
@@ -464,12 +468,19 @@ http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8
 http://tencentplaygzrb01.gztv.com/live/fazhi.m3u8
 #EXTINF:-1 group-title="测试" ,广州南国都市
 http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
-
-
-
-
-
-
+#EXTINF:-1 group-title="测试" ,杭州综合
+webview://https://tv.hoolo.tv/hzzh/
+#EXTINF:-1 group-title="测试" ,西湖明珠
+webview://https://tv.hoolo.tv/xhmz/
+#EXTINF:-1 group-title="测试" ,杭州生活
+webview://https://tv.hoolo.tv/hzsh/
+webview://https://tv.hoolo.tv/xhmz/
+#EXTINF:-1 group-title="测试" ,杭州影视
+webview://https://tv.hoolo.tv/utv/
+#EXTINF:-1 group-title="测试" ,杭州青少体育
+webview://https://tv.hoolo.tv/hzse/
+#EXTINF:-1 group-title="测试" ,杭州文化
+webview://https://tv.hoolo.tv/whpd/
 
 
 
