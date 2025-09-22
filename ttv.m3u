@@ -387,9 +387,9 @@ webview://https://live.kankanews.com/huikan?id=12
 #EXTINF:-1 tvg-name="魔都眼" tvg-logo="https://11.112114.xyz/logo/魔都眼.png" group-title="测试",魔都眼
 webview://https://live.kankanews.com/huikan?id=11
 #EXTINF:-1 group-title="测试" ,鳳凰中文
-webview://https://iptv345.com/?act=play&token=9a5780bb94145bf50a5eb5f885e4d7bc&tid=gt&id=1
+http://182.93.7.202:1001/hls/302/index.m3u81
 #EXTINF:-1 group-title="测试" ,鳯凰資訊
-webview://https://iptv345.com/?act=play&token=e6f62b6e636948ebf5f89e60fb16aa0f&tid=gt&id=2
+http://182.93.7.202:1001/hls/301/index.m3u8
 #EXTINF:-1 group-title="测试" ,鳯凰香港
 webview://https://iptv345.com/?act=play&token=808e3f01b671478733ce7eab7e0febd4&tid=gt&id=3
 #EXTINF:-1 group-title="测试" ,TVBS新聞
@@ -429,11 +429,11 @@ webview://https://iptv345.com/?act=play&token=d0d96b5a6f318836b249dd493fa226d3&t
 #EXTINF:-1 group-title="测试" ,爱尔达体育4台
 webview://https://iptv345.com/?act=play&token=302d570a8f4ebd6d12dc58f6b36b3b63&tid=gt&id=82
 #EXTINF:-1 group-title="测试" ,翡翠台
-webview://https://iptv345.com/?act=play&token=43b8ea5505578e26a1585dc662d9d02b&tid=gt&id=5
+http://182.93.7.202:1001/hls/307/index.m3u8
 #EXTINF:-1 group-title="测试" ,TVB无线新闻台
 webview://https://iptv345.com/?act=play&token=16c563bc237e9ac8ec5ede036a1545b5&tid=gt&id=6
 #EXTINF:-1 group-title="测试" ,TVB明珠台
-webview://https://iptv345.com/?act=play&token=ed6fee115b04da4d44e917efc006dd51&tid=gt&id=9
+http://182.93.7.202:1001/hls/308/index.m3u8
 #EXTINF:-1 group-title="测试" ,香港有线新闻台
 webview://https://iptv345.com/?act=play&token=597468bcc590d97d9d322bd3ececfe6b&tid=gt&id=11
 #EXTINF:-1 group-title="测试" ,香港有线18台
@@ -465,8 +465,7 @@ webview://https://tv.hoolo.tv/hzzh/
 #EXTINF:-1 group-title="测试" ,西湖明珠
 webview://https://tv.hoolo.tv/xhmz/
 #EXTINF:-1 group-title="测试" ,杭州生活
-webview://https://tv.hoolo.tv/hzsh/
-webview://https://tv.hoolo.tv/xhmz/
+webview://https://tv.hoolo.tv/hzsh/ 
 #EXTINF:-1 group-title="测试" ,杭州影视
 webview://https://tv.hoolo.tv/utv/
 #EXTINF:-1 group-title="测试" ,深圳都市
@@ -475,8 +474,12 @@ webview://https://www.sztv.com.cn/pindao/index.html?id=7868
 webview://https://www.sztv.com.cn/pindao/index.html?id=7880
 #EXTINF:-1 group-title="测试" ,深圳财经
 webview://https://www.sztv.com.cn/pindao/index.html?id=7871
-#EXTINF:-1 group-title="测试",看东方
-https://bp-resource-dfl.bestv.cn/155/3/video.m3u8? 
+#EXTINF:-1 group-title="测试",澳视澳门
+http://182.93.7.202:1001/hls/1/index.m3u8
+#EXTINF:-1 group-title="测试",澳门资讯
+http://182.93.7.202:1001/hls/3/index.m3u8
+#EXTINF:-1 group-title="测试",澳门体育
+http://182.93.7.202:1001/hls/16/index.m3u8
 
 
 
