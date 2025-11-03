@@ -392,12 +392,6 @@ http://192.168.5.1:4000/udp/239.49.0.195:8000
 #EXTINF:-1 tvg-name="宿迁泗阳综合" tvg-logo="https://11.112114.xyz/logo/宿迁泗阳综合.png" group-title="地方频道",宿迁泗阳综合
 http://192.168.5.1:4000/udp/239.49.0.249:8000
 
-#EXTINF:-1 group-title="苏超频道",江苏省城市足球联赛1
-http://192.168.5.1:4000/udp/239.49.8.96:8000
-#EXTINF:-1 group-title="苏超频道",江苏省城市足球联赛2
-http://192.168.5.1:4000/udp/239.49.8.97:8000
-
-
 #EXTINF:-1 group-title="测试",看东方
 https://bp-resource-dfl.bestv.cn/155/3/video.m3u8?auth_key=1755493209-380bf00031404e1787758b9b2c7bdec7-0-05f1d1de0ed1d139f78553afba68915e 
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://11.112114.xyz/logo/上海新闻综合.png" group-title="测试",上海新闻综合
@@ -446,6 +440,7 @@ webview://https://www.sztv.com.cn/pindao/index.html?id=7880
 #EXTINF:-1 group-title="测试" ,深圳财经
 webview://https://www.sztv.com.cn/pindao/index.html?id=7871
  
+
 
 
 
