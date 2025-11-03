@@ -107,7 +107,7 @@ $channels = [
     'dspd' => ['id'=>'18','name'=>'上海都市频道','tvg_id'=>'上海都市频道','tvg_name'=>'上海都市频道','logo'=>'https://epg.iill.top/logo/上海都市.png','group'=>'上海台'],
     'xjs'  => ['id'=>'1600','name'=>'新纪实','tvg_id'=>'新纪实','tvg_name'=>'新纪实','logo'=>'https://epg.iill.top/logo/新纪实.png','group'=>'上海台'],
     'mdy'  => ['id'=>'1601','name'=>'魔都眼','tvg_id'=>'魔都眼','tvg_name'=>'魔都眼','logo'=>'https://epg.iill.top/logo/魔都眼.png','group'=>'上海台'],
-    'lypd' => ['id'=>'1745','name'=>'爱上海','tvg_id'=>'爱上海','tvg_name'=>'爱上海','logo'=>'https://epg.iill.top/logo/爱上海.png','group'=>'上海台'],
+    'ash' => ['id'=>'2029','name'=>'爱上海','tvg_id'=>'爱上海','tvg_name'=>'爱上海','logo'=>'https://epg.iill.top/logo/爱上海.png','group'=>'上海台'],
 ];
 
 // === 获取 API 数据 ===
@@ -158,3 +158,4 @@ foreach ($channels as $key => $ch) {
     echo $playurl . "\n\n";
 }
 ?>
+
