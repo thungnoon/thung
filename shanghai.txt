@@ -1,11 +1,11 @@
 上海新闻综合,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
 五星体育,http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8
 上海都市,http://bp-livetytv.bestv.cn/ch/bestvdspd.m3u8
-上海教育,http://bp-livetytv.bestv.cn/ch/bestvjypd.m3u8
 ﻿新纪实,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 爱上海,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 第一财经,http://bp-livetytv.bestv.cn/ch/bestvdycj.m3u8
 重温经典,https://other.ottiptv.cc/cwjd.m3u8
+
 
 
 
