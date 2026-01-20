@@ -127,6 +127,7 @@ CCTV-4K 超高清,http://192.168.5.1:4000/udp/239.49.0.82:8000
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 之江记录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+上海新闻,http://8.138.7.223/tv/5gtv.php?id=36
 地方频道,#genre#
 南京新闻综合,http://192.168.5.1:4000/udp/239.49.0.25:8192
 南京教科,http://192.168.5.1:4000/udp/239.49.0.183:9434
@@ -192,6 +193,7 @@ CCTV-4K 超高清,http://192.168.5.1:4000/udp/239.49.0.82:8000
 宿迁沭阳综合,http://192.168.5.1:4000/udp/239.49.0.189:8792
 宿迁泗洪综合,http://192.168.5.1:4000/udp/239.49.0.195:8000
 宿迁泗阳综合,http://192.168.5.1:4000/udp/239.49.0.249:8000
+
 
 
 
