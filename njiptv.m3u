@@ -1,0 +1,419 @@
+#EXTM3U x-tvg-url="https://gitee.com/mytv-android/myepg/raw/master/output/epg.gz"
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000009320253000002939369/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV1
+http://192.168.5.1:4000/rtp/239.49.8.19:9614?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161804/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV1
+http://192.168.5.1:4000/rtp/239.49.0.1:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000003592955000012435088/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV2
+http://192.168.5.1:4000/rtp/239.49.8.50:9802?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161805/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV2
+http://192.168.5.1:4000/rtp/239.49.0.2:8008?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000209123267/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV3
+http://192.168.5.1:4000/rtp/239.49.8.74:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000007169950000001486316/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV3
+http://192.168.5.1:4000/rtp/239.49.0.3:9566?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000006470781000012435093/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV4
+http://192.168.5.1:4000/rtp/239.49.8.51:9806?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161807/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV4
+http://192.168.5.1:4000/rtp/239.49.0.4:8024?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000209123269/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV5
+http://192.168.5.1:4000/rtp/239.49.8.75:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000223178000001486317/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV5
+http://192.168.5.1:4000/rtp/239.49.0.5:9570?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000002242213000002930093/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV5+
+http://192.168.5.1:4000/rtp/239.49.8.18:9610?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000209123271/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV6
+http://192.168.5.1:4000/rtp/239.49.8.76:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000005226173000001486324/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV6
+http://192.168.5.1:4000/rtp/239.49.0.6:9574?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000221903146/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV7
+http://192.168.5.1:4000/rtp/239.49.0.126:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000201765759/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV7
+http://192.168.5.1:4000/rtp/239.49.8.126:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000209123273/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV8
+http://192.168.5.1:4000/rtp/239.49.8.77:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000004718618000001486332/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV8
+http://192.168.5.1:4000/rtp/239.49.0.8:9578?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000225334000012435113/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV9
+http://192.168.5.1:4000/rtp/239.49.8.53:9814?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000632728000012435118/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV10
+http://192.168.5.1:4000/rtp/239.49.8.54:9818?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161813/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV10
+http://192.168.5.1:4000/rtp/239.49.0.10:8072?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000221903274/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV11
+http://192.168.5.1:4000/rtp/239.49.0.127:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161814/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV11
+http://192.168.5.1:4000/rtp/239.49.0.11:8080?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000007793470000012435133/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV12
+http://192.168.5.1:4000/rtp/239.49.8.55:9822?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161815/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV12
+http://192.168.5.1:4000/rtp/239.49.0.12:8088?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000210913770/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV13
+http://192.168.5.1:4000/rtp/239.49.8.109:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161816/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV13
+http://192.168.5.1:4000/rtp/239.49.0.13:8096?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000006921605000012435136/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV14
+http://192.168.5.1:4000/rtp/239.49.8.56:9826?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161817/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV14
+http://192.168.5.1:4000/rtp/239.49.0.14:8104?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000221903392/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV15
+http://192.168.5.1:4000/rtp/239.49.0.128:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161818/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV15
+http://192.168.5.1:4000/rtp/239.49.0.15:8112?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000214607844/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV16
+http://192.168.5.1:4000/rtp/239.49.0.109:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000214160953/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV16
+http://192.168.5.1:4000/rtp/239.49.8.31:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000003101164000012435106/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV17
+http://192.168.5.1:4000/rtp/239.49.8.52:9810?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161810/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV17
+http://192.168.5.1:4000/rtp/239.49.0.7:8048?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000230656196/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV4K
+http://192.168.5.1:4000/rtp/239.49.0.82:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161812/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CGTN
+http://192.168.5.1:4000/rtp/239.49.0.9:8064?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000238174795/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CGTN法语
+http://192.168.5.1:4000/rtp/239.49.1.31:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000238174665/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CGTN西班牙语
+http://192.168.5.1:4000/rtp/239.49.1.30:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" group-title="央视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000212371855/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CGTN俄语
+http://192.168.5.1:4000/rtp/239.49.0.111:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000238866524/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",江苏卫视
+http://192.168.5.1:4000/rtp/239.49.1.61:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000238866526/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",江苏卫视
+http://192.168.5.1:4000/rtp/239.49.1.62:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000008237923000002930094/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",江苏卫视
+http://192.168.5.1:4000/rtp/239.49.8.16:9602?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161819/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",江苏卫视
+http://192.168.5.1:4000/rtp/239.49.0.16:8120?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000239595557/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",东方卫视
+http://192.168.5.1:4000/rtp/239.49.1.69:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000006337268000002930095/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",东方卫视
+http://192.168.5.1:4000/rtp/239.49.8.17:9606?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161851/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",东方卫视
+http://192.168.5.1:4000/rtp/239.49.0.48:8376?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000236887659/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",北京卫视
+http://192.168.5.1:4000/rtp/239.49.0.42:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000237706555/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",北京卫视
+http://192.168.5.1:4000/rtp/239.49.0.253:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000003000000963222/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",北京卫视
+http://192.168.5.1:4000/rtp/239.49.8.11:9414?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161852/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",北京卫视
+http://192.168.5.1:4000/rtp/239.49.0.49:8384?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000239595112/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",浙江卫视
+http://192.168.5.1:4000/rtp/239.49.1.63:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000235022000002930096/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",浙江卫视
+http://192.168.5.1:4000/rtp/239.49.8.20:9618?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161853/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",浙江卫视
+http://192.168.5.1:4000/rtp/239.49.0.50:8392?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000006541400000016840439/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",辽宁卫视
+http://192.168.5.1:4000/rtp/239.49.8.48:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161854/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",辽宁卫视
+http://192.168.5.1:4000/rtp/239.49.0.51:8400?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000200182943/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",安徽卫视
+http://192.168.5.1:4000/rtp/239.49.8.80:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161855/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",安徽卫视
+http://192.168.5.1:4000/rtp/239.49.0.52:8408?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000239595561/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",山东卫视
+http://192.168.5.1:4000/rtp/239.49.1.71:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000009502981000005242653/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",山东卫视
+http://192.168.5.1:4000/rtp/239.49.8.7:9306?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161856/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",山东卫视
+http://192.168.5.1:4000/rtp/239.49.0.53:8416?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000239595494/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",湖南卫视
+http://192.168.5.1:4000/rtp/239.49.1.67:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000003000000963223/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",湖南卫视
+http://192.168.5.1:4000/rtp/239.49.8.12:9418?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161857/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",湖南卫视
+http://192.168.5.1:4000/rtp/239.49.0.54:8424?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000238059928/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",广东卫视
+http://192.168.5.1:4000/rtp/239.49.1.24:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000238060080/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",广东卫视
+http://192.168.5.1:4000/rtp/239.49.1.26:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000003000000963227/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",广东卫视
+http://192.168.5.1:4000/rtp/239.49.8.13:9422?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161858/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",广东卫视
+http://192.168.5.1:4000/rtp/239.49.0.55:8432?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000201885894/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",广西卫视
+http://192.168.5.1:4000/rtp/239.49.8.10:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161859/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",广西卫视
+http://192.168.5.1:4000/rtp/239.49.0.56:8440?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000203203498/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",海南卫视
+http://192.168.5.1:4000/rtp/239.49.8.83:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161860/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",海南卫视
+http://192.168.5.1:4000/rtp/239.49.0.57:8448?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000004058277000012435141/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",重庆卫视
+http://192.168.5.1:4000/rtp/239.49.8.57:9830?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161861/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",重庆卫视
+http://192.168.5.1:4000/rtp/239.49.0.58:8456?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000239595368/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",四川卫视
+http://192.168.5.1:4000/rtp/239.49.1.65:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000005045004000112448173/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",四川卫视
+http://192.168.5.1:4000/rtp/239.49.8.110:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161862/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",四川卫视
+http://192.168.5.1:4000/rtp/239.49.0.59:8464?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000208686825/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",河南卫视
+http://192.168.5.1:4000/rtp/239.49.8.29:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161863/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",河南卫视
+http://192.168.5.1:4000/rtp/239.49.0.60:8472?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000002578204000112448175/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",东南卫视
+http://192.168.5.1:4000/rtp/239.49.8.112:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161864/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",东南卫视
+http://192.168.5.1:4000/rtp/239.49.0.61:8480?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000003450360000008354987/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",天津卫视
+http://192.168.5.1:4000/rtp/239.49.8.35:8620?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161865/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",天津卫视
+http://192.168.5.1:4000/rtp/239.49.0.62:8488?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000007199034000112448174/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",江西卫视
+http://192.168.5.1:4000/rtp/239.49.8.111:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161866/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",江西卫视
+http://192.168.5.1:4000/rtp/239.49.0.63:8496?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000009524643000005242909/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",湖北卫视
+http://192.168.5.1:4000/rtp/239.49.8.8:9632?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161867/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",湖北卫视
+http://192.168.5.1:4000/rtp/239.49.0.64:8504?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000009441308000112448176/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",吉林卫视
+http://192.168.5.1:4000/rtp/239.49.8.113:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161868/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",吉林卫视
+http://192.168.5.1:4000/rtp/239.49.0.65:8512?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000003000000963231/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",黑龙江卫视
+http://192.168.5.1:4000/rtp/239.49.8.14:9426?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161869/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",黑龙江卫视
+http://192.168.5.1:4000/rtp/239.49.0.66:8520?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000238527081/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",山西卫视
+http://192.168.5.1:4000/rtp/239.49.1.55:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161870/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",山西卫视
+http://192.168.5.1:4000/rtp/239.49.0.67:8528?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000005182668000016840460/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",贵州卫视
+http://192.168.5.1:4000/rtp/239.49.8.49:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161871/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",贵州卫视
+http://192.168.5.1:4000/rtp/239.49.0.68:8536?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000230654404/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",青海卫视
+http://192.168.5.1:4000/rtp/239.49.0.81:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161872/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",青海卫视
+http://192.168.5.1:4000/rtp/239.49.0.69:8544?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000238060232/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",深圳卫视
+http://192.168.5.1:4000/rtp/239.49.1.28:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000238060188/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",深圳卫视
+http://192.168.5.1:4000/rtp/239.49.1.27:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000003000000963232/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",深圳卫视
+http://192.168.5.1:4000/rtp/239.49.8.15:9430?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000005192936000008355085/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",深圳卫视
+http://192.168.5.1:4000/rtp/239.49.0.100:8788?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000205417355/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",云南卫视
+http://192.168.5.1:4000/rtp/239.49.0.177:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000003608219000112448122/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",云南卫视
+http://192.168.5.1:4000/rtp/239.49.0.147:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000005711463000112448179/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",河北卫视
+http://192.168.5.1:4000/rtp/239.49.8.114:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000004128660000112448123/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",河北卫视
+http://192.168.5.1:4000/rtp/239.49.0.170:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000238840805/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",宁夏卫视
+http://192.168.5.1:4000/rtp/239.49.1.60:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000008902901000112448124/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",宁夏卫视
+http://192.168.5.1:4000/rtp/239.49.0.171:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000228787558/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",甘肃卫视
+http://192.168.5.1:4000/rtp/239.49.0.250:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000003786444000112448162/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",甘肃卫视
+http://192.168.5.1:4000/rtp/239.49.0.172:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000238840754/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",新疆卫视
+http://192.168.5.1:4000/rtp/239.49.1.57:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000007025527000112448167/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",新疆卫视
+http://192.168.5.1:4000/rtp/239.49.0.178:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000241508683/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",内蒙古卫视
+http://192.168.5.1:4000/rtp/239.49.1.75:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000005039529000112448168/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",内蒙古卫视
+http://192.168.5.1:4000/rtp/239.49.0.180:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000238836921/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",西藏卫视
+http://192.168.5.1:4000/rtp/239.49.1.56:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000116631284/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",西藏卫视
+http://192.168.5.1:4000/rtp/239.49.0.245:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000224975132/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",三沙卫视
+http://192.168.5.1:4000/rtp/239.49.0.167:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000224967963/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",三沙卫视
+http://192.168.5.1:4000/rtp/239.49.0.165:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000237510074/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",厦门卫视
+http://192.168.5.1:4000/rtp/239.49.0.230:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000238840759/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",兵团卫视
+http://192.168.5.1:4000/rtp/239.49.1.58:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000237510088/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",兵团卫视
+http://192.168.5.1:4000/rtp/239.49.0.240:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000241508681/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",陕西卫视
+http://192.168.5.1:4000/rtp/239.49.1.74:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000004809461000114688138/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",陕西卫视
+http://192.168.5.1:4000/rtp/239.49.0.233:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" group-title="卫视" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000237509828/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",山东教育卫视
+http://192.168.5.1:4000/rtp/239.49.0.252:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="江苏城市" tvg-name="江苏城市" group-title="本地" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000209332311/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",江苏城市
+http://192.168.5.1:4000/rtp/239.49.8.107:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="江苏城市" tvg-name="江苏城市" group-title="本地" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161820/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",江苏城市
+http://192.168.5.1:4000/rtp/239.49.0.17:8128?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="江苏综艺" tvg-name="江苏综艺" group-title="本地" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000209332355/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",江苏综艺
+http://192.168.5.1:4000/rtp/239.49.8.108:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="江苏综艺" tvg-name="江苏综艺" group-title="本地" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161821/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",江苏综艺
+http://192.168.5.1:4000/rtp/239.49.0.18:8136?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="江苏体育休闲" tvg-name="江苏体育休闲" group-title="本地" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000209332359/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",江苏体育休闲
+http://192.168.5.1:4000/rtp/239.49.8.117:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="江苏体育休闲" tvg-name="江苏体育休闲" group-title="本地" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161822/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",江苏体育休闲
+http://192.168.5.1:4000/rtp/239.49.0.19:8144?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="江苏影视" tvg-name="江苏影视" group-title="本地" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000209332381/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",江苏影视
+http://192.168.5.1:4000/rtp/239.49.8.118:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="江苏影视" tvg-name="江苏影视" group-title="本地" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161823/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",江苏影视
+http://192.168.5.1:4000/rtp/239.49.0.20:8152?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="江苏新闻" tvg-name="江苏新闻" group-title="本地" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000209332385/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",江苏新闻
+http://192.168.5.1:4000/rtp/239.49.8.120:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="江苏新闻" tvg-name="江苏新闻" group-title="本地" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000003000000512493/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",江苏新闻
+http://192.168.5.1:4000/rtp/239.49.0.149:9186?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="江苏教育" tvg-name="江苏教育" group-title="本地" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000209332449/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",江苏教育
+http://192.168.5.1:4000/rtp/239.49.8.122:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="江苏教育" tvg-name="江苏教育" group-title="本地" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161825/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",江苏教育
+http://192.168.5.1:4000/rtp/239.49.0.23:8176?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="江苏国际" tvg-name="江苏国际" group-title="本地" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000242546299/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",江苏国际
+http://192.168.5.1:4000/rtp/239.49.1.81:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="江苏国际" tvg-name="江苏国际" group-title="本地" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000030000000303455/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",江苏国际
+http://192.168.5.1:4000/rtp/239.49.0.22:8168?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" group-title="本地" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000241508693/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",财富天下
+http://192.168.5.1:4000/rtp/239.49.1.76:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" group-title="本地" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000209332383/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",优漫卡通
+http://192.168.5.1:4000/rtp/239.49.8.119:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" group-title="本地" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161824/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",优漫卡通
+http://192.168.5.1:4000/rtp/239.49.0.21:8160?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" group-title="本地" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000208194815/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",金鹰卡通
+http://192.168.5.1:4000/rtp/239.49.8.33:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="南京十八生活" tvg-name="南京十八生活" group-title="本地" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161828/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",南京十八生活
+http://192.168.5.1:4000/rtp/239.49.0.26:8200?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="南京新闻" tvg-name="南京新闻" group-title="本地" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161827/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",南京新闻
+http://192.168.5.1:4000/rtp/239.49.0.25:8192?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="南京文旅纪录" tvg-name="南京文旅纪录" group-title="本地" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000201994067/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",南京文旅纪录
+http://192.168.5.1:4000/rtp/239.49.0.38:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="南京教科" tvg-name="南京教科" group-title="本地" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000003000001050228/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",南京教科
+http://192.168.5.1:4000/rtp/239.49.0.183:9434?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="江苏省城市足球联赛1" tvg-name="江苏省城市足球联赛1" group-title="本地" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000204879746/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",江苏省城市足球联赛1
+http://192.168.5.1:4000/rtp/239.49.8.96:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="江苏省城市足球联赛2" tvg-name="江苏省城市足球联赛2" group-title="本地" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000204879758/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",江苏省城市足球联赛2
+http://192.168.5.1:4000/rtp/239.49.8.97:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="江苏省城市足球联赛3" tvg-name="江苏省城市足球联赛3" group-title="本地" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000204879774/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",江苏省城市足球联赛3
+http://192.168.5.1:4000/rtp/239.49.8.98:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="江苏省城市足球联赛4" tvg-name="江苏省城市足球联赛4" group-title="本地" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000204879780/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",江苏省城市足球联赛4
+http://192.168.5.1:4000/rtp/239.49.8.99:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="江苏省城市足球联赛5" tvg-name="江苏省城市足球联赛5" group-title="本地" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000204879784/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",江苏省城市足球联赛5
+http://192.168.5.1:4000/rtp/239.49.8.100:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="江苏省城市足球联赛6" tvg-name="江苏省城市足球联赛6" group-title="本地" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000204879790/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",江苏省城市足球联赛6
+http://192.168.5.1:4000/rtp/239.49.8.101:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000005619547000112448210/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CETV1
+http://192.168.5.1:4000/rtp/239.49.8.115:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161873/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CETV1
+http://192.168.5.1:4000/rtp/239.49.0.70:8552?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161874/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CETV2
+http://192.168.5.1:4000/rtp/239.49.0.71:8560?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000221903067/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CETV4
+http://192.168.5.1:4000/rtp/239.49.0.125:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000003000000000161875/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CETV4
+http://192.168.5.1:4000/rtp/239.49.0.72:8568?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000235977903/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",睛彩竞技
+http://192.168.5.1:4000/rtp/239.49.8.39:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000235977965/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",睛彩篮球
+http://192.168.5.1:4000/rtp/239.49.8.42:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000235978041/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",睛彩青少
+http://192.168.5.1:4000/rtp/239.49.8.46:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000235978099/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",睛彩广场舞
+http://192.168.5.1:4000/rtp/239.49.8.64:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000008710718000016840501/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",快乐垂钓
+http://192.168.5.1:4000/rtp/239.49.0.114:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="梨园" tvg-name="梨园" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000215268723/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",梨园
+http://192.168.5.1:4000/rtp/239.49.8.193:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000215268761/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",武术世界
+http://192.168.5.1:4000/rtp/239.49.0.205:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="文物宝库" tvg-name="文物宝库" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000215268809/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",文物宝库
+http://192.168.5.1:4000/rtp/239.49.0.209:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000003000116631476/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",金鹰纪实
+http://192.168.5.1:4000/rtp/239.49.8.79:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000234408174/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",中国天气
+http://192.168.5.1:4000/rtp/239.49.0.94:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000234615503/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",东方财经
+http://192.168.5.1:4000/rtp/239.49.0.95:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000234615514/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",法治天地
+http://192.168.5.1:4000/rtp/239.49.0.96:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000234615570/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",生活时尚
+http://192.168.5.1:4000/rtp/239.49.0.97:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000234615576/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",都市剧场
+http://192.168.5.1:4000/rtp/239.49.0.99:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000237510056/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",卡酷少儿
+http://192.168.5.1:4000/rtp/239.49.0.148:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="篮球世界" tvg-name="篮球世界" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000204879836/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",篮球世界
+http://192.168.5.1:4000/rtp/239.49.8.105:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="羽毛球直播" tvg-name="羽毛球直播" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000204879826/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",羽毛球直播
+http://192.168.5.1:4000/rtp/239.49.8.104:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="书画频道" tvg-name="书画频道" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000009108553000016840503/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",书画频道
+http://192.168.5.1:4000/rtp/239.49.0.123:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="中学生" tvg-name="中学生" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000242546705/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",中学生
+http://192.168.5.1:4000/rtp/239.49.1.82:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CBA直播7" tvg-name="CBA直播7" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000204879806/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CBA直播7
+http://192.168.5.1:4000/rtp/239.49.8.97:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="CBA直播8" tvg-name="CBA直播8" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000204879820/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CBA直播8
+http://192.168.5.1:4000/rtp/239.49.8.98:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="开机直播专用" tvg-name="开机直播专用" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000218010866/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",开机直播专用
+http://192.168.5.1:4000/rtp/239.49.0.1:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="多画面导航" tvg-name="多画面导航" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000001703663000116412055/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",多画面导航
+http://192.168.5.1:4000/rtp/239.49.8.73:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="精彩推荐高清" tvg-name="精彩推荐高清" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000005248603000008354960/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",精彩推荐高清
+http://192.168.5.1:4000/rtp/239.49.8.34:8612?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="精彩推荐" tvg-name="精彩推荐" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000003000001176671/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",精彩推荐
+http://192.168.5.1:4000/rtp/239.49.0.190:9458?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="慢直播" tvg-name="慢直播" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000004149783000015409565/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",慢直播
+http://192.168.5.1:4000/rtp/239.49.8.67:9376?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="4K跨年直播2" tvg-name="4K跨年直播2" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000203011155/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",4K跨年直播2
+http://192.168.5.1:4000/rtp/239.49.8.82:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="4K测试" tvg-name="4K测试" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000003804618000011010813/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",4K测试
+http://192.168.5.1:4000/rtp/239.49.8.38:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="省台直播室1" tvg-name="省台直播室1" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000009526463000014931339/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",省台直播室1
+http://192.168.5.1:4000/rtp/239.49.8.151:6000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="省台直播室2" tvg-name="省台直播室2" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000005892744000014931340/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",省台直播室2
+http://192.168.5.1:4000/rtp/239.49.8.63:9354?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="多机位4" tvg-name="多机位4" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000004149783000015409565/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",多机位4
+http://192.168.5.1:4000/rtp/239.49.8.68:9380?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="多机位5" tvg-name="多机位5" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000208686726/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",多机位5
+http://192.168.5.1:4000/rtp/239.49.8.69:9384?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="多机位6" tvg-name="多机位6" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000208686823/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",多机位6
+http://192.168.5.1:4000/rtp/239.49.0.251:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="多机位7" tvg-name="多机位7" group-title="其他" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000208686825/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",多机位7
+http://192.168.5.1:4000/rtp/239.49.0.191:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="聚鲨环球精选" tvg-name="聚鲨环球精选" group-title="购物" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000003291839000116411950/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",聚鲨环球精选
+http://192.168.5.1:4000/rtp/239.49.8.123:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="聚鲨环球精选" tvg-name="聚鲨环球精选" group-title="购物" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000203382558/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",聚鲨环球精选
+http://192.168.5.1:4000/rtp/239.49.0.212:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="家有购物" tvg-name="家有购物" group-title="购物" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000231356120/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",家有购物
+http://192.168.5.1:4000/rtp/239.49.0.87:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="家有购物" tvg-name="家有购物" group-title="购物" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000200891320/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",家有购物
+http://192.168.5.1:4000/rtp/239.49.8.124:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" group-title="购物" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000218790010/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",央广购物
+http://192.168.5.1:4000/rtp/239.49.0.39:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" group-title="购物" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000008035888000010230990/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",央广购物
+http://192.168.5.1:4000/rtp/239.49.0.110:9014?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="好享购物" tvg-name="好享购物" group-title="购物" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000209332447/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",好享购物
+http://192.168.5.1:4000/rtp/239.49.8.121:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="好享购物" tvg-name="好享购物" group-title="购物" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000003000000512494/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",好享购物
+http://192.168.5.1:4000/rtp/239.49.0.103:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="优购物" tvg-name="优购物" group-title="购物" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000231268197/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",优购物
+http://192.168.5.1:4000/rtp/239.49.0.85:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="优购物" tvg-name="优购物" group-title="购物" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000231268187/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",优购物
+http://192.168.5.1:4000/rtp/239.49.0.84:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="江苏新闻广播" tvg-name="江苏新闻广播" group-title="广播" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000244136332/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",江苏新闻广播
+http://192.168.5.1:4000/rtp/239.49.1.86:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="江苏交通广播网" tvg-name="江苏交通广播网" group-title="广播" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000244137037/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",江苏交通广播网
+http://192.168.5.1:4000/rtp/239.49.1.87:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="江苏经典流行音乐广播" tvg-name="江苏经典流行音乐广播" group-title="广播" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000244137803/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",江苏经典流行音乐广播
+http://192.168.5.1:4000/rtp/239.49.1.88:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="江苏音乐广播" tvg-name="江苏音乐广播" group-title="广播" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000244137817/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",江苏音乐广播
+http://192.168.5.1:4000/rtp/239.49.1.89:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="金陵之声" tvg-name="金陵之声" group-title="广播" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000244138453/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",金陵之声
+http://192.168.5.1:4000/rtp/239.49.1.90:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="江苏新闻综合广播" tvg-name="江苏新闻综合广播" group-title="广播" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000244138562/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",江苏新闻综合广播
+http://192.168.5.1:4000/rtp/239.49.1.91:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="江苏文艺广播" tvg-name="江苏文艺广播" group-title="广播" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000244138644/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",江苏文艺广播
+http://192.168.5.1:4000/rtp/239.49.1.92:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="江苏故事广播" tvg-name="江苏故事广播" group-title="广播" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000244138698/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",江苏故事广播
+http://192.168.5.1:4000/rtp/239.49.1.93:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="江苏财经广播" tvg-name="江苏财经广播" group-title="广播" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000244138770/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",江苏财经广播
+http://192.168.5.1:4000/rtp/239.49.1.94:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-id="江苏健康广播" tvg-name="江苏健康广播" group-title="广播" catchup="default" catchup-source="http://180.96.165.41:6060/00000002/01000000000000000000000244138808/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",江苏健康广播
+http://192.168.5.1:4000/rtp/239.49.1.95:8000?fcc=180.100.72.185:15970
