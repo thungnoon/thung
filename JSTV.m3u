@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
+#EXTM3U x-tvg-url="http://gitee.com/taksssss/tv/raw/main/epg/epgpw_cn.xml.gz,http://e.erw.cc/e.xml.gz,http://e.erw.cc/all.xml.gz"
 #EXTINF:-1 tvg-id="江苏卫视频道" tvg-name="江苏卫视频道" tvg-logo="https://live.zbds.top/logo/江苏卫视频道.png" group-title="江苏频道",江苏卫视频道
 http://192.168.5.1:4000/rtp/239.49.8.125:8000
 #EXTINF:-1 tvg-id="江苏卫视频道" tvg-name="江苏卫视频道" tvg-logo="https://live.zbds.top/logo/江苏卫视频道.png" group-title="江苏频道",江苏卫视频道
